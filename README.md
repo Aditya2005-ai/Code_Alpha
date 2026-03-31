@@ -43,7 +43,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## How to Run
 Colab Link: 
 
-Task_1 : https://colab.research.google.com/drive/1YBFGqLoe6SGWNWJVgAEyySojj_w5i0A7?usp=sharing
+Task_1 : https://colab.research.google.com/drive/1YBFGqLoe6SGWNWJVgAEyySojj_w5i0A7?usp=sharing 
+
 Task_4 : https://colab.research.google.com/drive/1F68-T8PswtrXH9BdQF9v6ny9AdU2c0dm?usp=sharing
 
 1. Clone the repository.
